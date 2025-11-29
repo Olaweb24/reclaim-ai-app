@@ -1,6 +1,8 @@
 # SafeHer Africa
 ### *Stay Safe. Stay Smart. Stay Ahead.*
-Reclaim AI is an AI-powered platform helping women and girls across Africa prevent, detect, and report digital violence. Combining gamified safety education with secure evidence collection, we empower users to take control of their digital safety and seek justice with confidence.
+Reclaim empowers survivors of online harassment, blackmail, cyberbullying, doxxing, revenge porn, and digital threats to collect, preserve, and report evidence safely — without fear, without shame, and without leaving a trace.
+Built by survivors, for survivors.
+Because your story deserves to be heard, and your evidence deserves to be bulletproof.
 
 ---
 ## 📸 Screenshots
