@@ -177,7 +177,7 @@ Deployment        Vercel (Frontend), Supabase (Backend)CI/CDGitHub Actions
 Before you begin, ensure you have:
 - **Node.js** v18.0.0 or higher ([Download](https://nodejs.org/))
 - **npm** v9.0.0+ or **yarn** v1.22.0+
-- **Firebase account** ([Create free account](https://firebase.google.com/))
+- **Suabase account** ([Create free account](https://supabase.com//))
 - **AI API keys** (OpenAI, Google Cloud Vision)
 
 ### Step-by-Step Setup
